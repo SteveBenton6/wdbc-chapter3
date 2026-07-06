@@ -2,12 +2,12 @@
 
 body {
   background-color: rgb(224, 217, 223);
-  margin: 50px;
   font-family: "Roboto", sans-serif;
 }
 
 header {
   text-align: center;
+  padding: 32px;
 }
 
 h1 {
@@ -15,18 +15,17 @@ h1 {
   font-size: 60px;
 }
 
-img {
+header img {
   width: 300px;
 }
 
 main {
-  text-align: left;
   background-color: rgb(91, 69, 211);
   color: white;
   width: 650px;
   border-radius: 10px;
-  padding: 60px 30px;
-  margin: 50px auto 30px auto;
+  padding: 32px;
+  margin: 32px auto;
 }
 
 h2 {

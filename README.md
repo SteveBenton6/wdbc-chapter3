@@ -10,7 +10,7 @@
 
 ## 79 - Adding the Header Styling [Day 9]
 
-## 80 - Spacing & the CSS Box Model[Day 9]
+## 80 - Spacing & the CSS Box Model [Day 9]
 
 ## 81 - Adding the Main Content [Day 9]
 
